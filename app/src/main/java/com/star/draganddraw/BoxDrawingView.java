@@ -135,6 +135,6 @@ public class BoxDrawingView extends View {
             mBoxes = (ArrayList<Box>) bundle.getSerializable(SERIAL_BUNDLE_KEY);
 
         }
-
     }
+
 }

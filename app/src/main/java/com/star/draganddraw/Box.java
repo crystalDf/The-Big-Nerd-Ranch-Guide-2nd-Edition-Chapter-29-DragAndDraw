@@ -34,4 +34,5 @@ public class Box {
     public void setAngle(float angle) {
         mAngle = angle;
     }
+
 }
