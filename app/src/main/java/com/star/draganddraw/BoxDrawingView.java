@@ -107,6 +107,7 @@ public class BoxDrawingView extends View {
             case MotionEvent.ACTION_CANCEL:
                 action = "ACTION_CANCEL";
                 break;
+
         }
 
         Log.i(TAG, action + " at x = " + current.x + ", y = " + current.y);
